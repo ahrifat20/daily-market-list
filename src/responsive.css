@@ -1,0 +1,11 @@
+@media (max-width: 650px) {
+    .row_heading {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 385px) {
+    section .app_name {
+        font-size: 25px;
+    }
+}

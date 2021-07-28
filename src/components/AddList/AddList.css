@@ -1,0 +1,9 @@
+.addList h4 {
+    font-weight: bold;
+    color: rgb(65, 63, 63);
+    text-align: center;
+}
+
+.btn-big {
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+.table_heading {
+    font-size: 20px;
+    font-weight: 700;
+}
+.row_heading {
+    font-size: 16px;
+    font-weight: 600;
+}
+.line-through {
+    text-decoration: line-through;
+}
+.actionButton {
+    width: 30px;
+    height: 30px;
+    flex-direction: column;
+    margin: 2px;
+    align-items: center;
+    justify-content: center;
+}
+
+@media print {
+    .noPrint {
+        display: none;
+    }
+}
