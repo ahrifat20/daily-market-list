@@ -1,6 +1,6 @@
 ## Daily MNarket List App
 
-[Let's Go Learn Typescript](https://github.com/akbor5374/typescript/blob/master/index.ts)
+[https://daily-market-list.vercel.app/](https://daily-market-list.vercel.app/)
 
 ## Features:
 
